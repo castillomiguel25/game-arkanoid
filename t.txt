@@ -1,0 +1,5 @@
+Identificación del token :  C566C0218A8A42B39EA86613AE78A132-02-6
+
+Secreto simbólico: 2PETAtkyVzlQ6dqJQq45C#040lJiV
+
+Autenticación básica: Authorization: Basic QzU2NkMwMjE4QThBNDJCMzlFQTg2NjEzQUU3OEExMzItMDItNjoyUEVUQXRreVZ6bFE2ZHFKUXE0NUMjMDQwbEppVg==
